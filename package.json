@@ -1,0 +1,13 @@
+{
+  "name": "fieldshift",
+  "version": "1.0.0",
+  "description": "FieldShift agritech decision-support system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["agritech", "nasa", "fieldshift"],
+  "author": "FieldShift",
+  "license": "MIT"
+}
